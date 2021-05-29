@@ -1,2 +1,2 @@
 # chatroom
- Chatroom using UDP with simple encryption.
+Chatroom on UDP sockets with simple RSA encryption.
